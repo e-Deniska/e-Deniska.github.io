@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+        {
+            "appID": "4E63BYV878.com.tazetdinov.memoires",
+            "paths": [ "/Memoires/*"]
+        }
+        ]
+    }
+}
